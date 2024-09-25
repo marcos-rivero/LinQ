@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\ACME\\Linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7046127C-15C2-425D-8D64-FD9FA2FA0000}|Linq\\Linq.csproj|c:\\users\\marcos\\desktop\\desarrollo back end\\acme\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7046127C-15C2-425D-8D64-FD9FA2FA0000}|Linq\\Linq.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7046127C-15C2-425D-8D64-FD9FA2FA0000}|Linq\\Linq.csproj|c:\\users\\marcos\\desktop\\desarrollo back end\\acme\\linq\\linq\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7046127C-15C2-425D-8D64-FD9FA2FA0000}|Linq\\Linq.csproj|solutionrelative:linq\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7046127C-15C2-425D-8D64-FD9FA2FA0000}|Linq\\Linq.csproj|c:\\users\\marcos\\desktop\\desarrollo back end\\acme\\linq\\linq\\extensionlinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7046127C-15C2-425D-8D64-FD9FA2FA0000}|Linq\\Linq.csproj|solutionrelative:linq\\extensionlinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\ACME\\Linq\\Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Linq\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\ACME\\Linq\\Linq\\Program.cs",
+              "RelativeToolTip": "Linq\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAArwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-15T18:34:57.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtensionLinq.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\ACME\\Linq\\Linq\\ExtensionLinq.cs",
+              "RelativeDocumentMoniker": "Linq\\ExtensionLinq.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\ACME\\Linq\\Linq\\ExtensionLinq.cs",
+              "RelativeToolTip": "Linq\\ExtensionLinq.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-15T18:50:51.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\ACME\\Linq\\Linq\\Libro.cs",
+              "RelativeDocumentMoniker": "Linq\\Libro.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\ACME\\Linq\\Linq\\Libro.cs",
+              "RelativeToolTip": "Linq\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-15T18:35:15.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
